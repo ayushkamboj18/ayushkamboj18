@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ayush Kamboj</h1>
 <h3>I am Skilled JavaScript developer who loves to build scalable server-side web applications and intuitive user interfaces</h3>
-🌱  I’m currently learning React framework
+🌱  I’m currently learning Docker
 
 📫  How to reach me ayushkambojq51@gmail.com
 <h3 align="left">Connect with me:</h3>
